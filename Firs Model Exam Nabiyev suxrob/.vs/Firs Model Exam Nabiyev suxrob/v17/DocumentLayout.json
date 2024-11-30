@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\user\\Documents\\PDP C#\\FirsModulExam\\Firs Model Exam Nabiyev suxrob\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2134C0B-E46C-4672-832E-CDAA1A37D7B4}|Firs Model Exam Nabiyev suxrob.csproj|c:\\users\\user\\documents\\pdp c#\\firsmodulexam\\firs model exam nabiyev suxrob\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2134C0B-E46C-4672-832E-CDAA1A37D7B4}|Firs Model Exam Nabiyev suxrob.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2134C0B-E46C-4672-832E-CDAA1A37D7B4}|Firs Model Exam Nabiyev suxrob.csproj|c:\\users\\user\\documents\\pdp c#\\firsmodulexam\\firs model exam nabiyev suxrob\\services\\phoneservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2134C0B-E46C-4672-832E-CDAA1A37D7B4}|Firs Model Exam Nabiyev suxrob.csproj|solutionrelative:services\\phoneservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2134C0B-E46C-4672-832E-CDAA1A37D7B4}|Firs Model Exam Nabiyev suxrob.csproj|c:\\users\\user\\documents\\pdp c#\\firsmodulexam\\firs model exam nabiyev suxrob\\models\\phone.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2134C0B-E46C-4672-832E-CDAA1A37D7B4}|Firs Model Exam Nabiyev suxrob.csproj|solutionrelative:models\\phone.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PhoneService.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\PDP C#\\FirsModulExam\\Firs Model Exam Nabiyev suxrob\\Services\\PhoneService.cs",
+              "RelativeDocumentMoniker": "Services\\PhoneService.cs",
+              "ToolTip": "C:\\Users\\user\\Documents\\PDP C#\\FirsModulExam\\Firs Model Exam Nabiyev suxrob\\Services\\PhoneService.cs",
+              "RelativeToolTip": "Services\\PhoneService.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAAA9wC4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-30T06:52:31.926Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Phone.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\PDP C#\\FirsModulExam\\Firs Model Exam Nabiyev suxrob\\Models\\Phone.cs",
+              "RelativeDocumentMoniker": "Models\\Phone.cs",
+              "ToolTip": "C:\\Users\\user\\Documents\\PDP C#\\FirsModulExam\\Firs Model Exam Nabiyev suxrob\\Models\\Phone.cs",
+              "RelativeToolTip": "Models\\Phone.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-30T06:51:44.092Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\PDP C#\\FirsModulExam\\Firs Model Exam Nabiyev suxrob\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\user\\Documents\\PDP C#\\FirsModulExam\\Firs Model Exam Nabiyev suxrob\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-30T06:51:12.353Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

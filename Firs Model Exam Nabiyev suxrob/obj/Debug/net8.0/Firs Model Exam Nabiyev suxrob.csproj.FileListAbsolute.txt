@@ -1,0 +1,15 @@
+C:\Users\user\Documents\PDP C#\FirsModulExam\Firs Model Exam Nabiyev suxrob\bin\Debug\net8.0\Firs Model Exam Nabiyev suxrob.exe
+C:\Users\user\Documents\PDP C#\FirsModulExam\Firs Model Exam Nabiyev suxrob\bin\Debug\net8.0\Firs Model Exam Nabiyev suxrob.deps.json
+C:\Users\user\Documents\PDP C#\FirsModulExam\Firs Model Exam Nabiyev suxrob\bin\Debug\net8.0\Firs Model Exam Nabiyev suxrob.runtimeconfig.json
+C:\Users\user\Documents\PDP C#\FirsModulExam\Firs Model Exam Nabiyev suxrob\bin\Debug\net8.0\Firs Model Exam Nabiyev suxrob.dll
+C:\Users\user\Documents\PDP C#\FirsModulExam\Firs Model Exam Nabiyev suxrob\bin\Debug\net8.0\Firs Model Exam Nabiyev suxrob.pdb
+C:\Users\user\Documents\PDP C#\FirsModulExam\Firs Model Exam Nabiyev suxrob\obj\Debug\net8.0\Firs Model Exam Nabiyev suxrob.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Documents\PDP C#\FirsModulExam\Firs Model Exam Nabiyev suxrob\obj\Debug\net8.0\Firs Model Exam Nabiyev suxrob.AssemblyInfoInputs.cache
+C:\Users\user\Documents\PDP C#\FirsModulExam\Firs Model Exam Nabiyev suxrob\obj\Debug\net8.0\Firs Model Exam Nabiyev suxrob.AssemblyInfo.cs
+C:\Users\user\Documents\PDP C#\FirsModulExam\Firs Model Exam Nabiyev suxrob\obj\Debug\net8.0\Firs Model Exam Nabiyev suxrob.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\PDP C#\FirsModulExam\Firs Model Exam Nabiyev suxrob\obj\Debug\net8.0\Firs Model Exam Nabiyev suxrob.sourcelink.json
+C:\Users\user\Documents\PDP C#\FirsModulExam\Firs Model Exam Nabiyev suxrob\obj\Debug\net8.0\Firs Model Exam Nabiyev suxrob.dll
+C:\Users\user\Documents\PDP C#\FirsModulExam\Firs Model Exam Nabiyev suxrob\obj\Debug\net8.0\refint\Firs Model Exam Nabiyev suxrob.dll
+C:\Users\user\Documents\PDP C#\FirsModulExam\Firs Model Exam Nabiyev suxrob\obj\Debug\net8.0\Firs Model Exam Nabiyev suxrob.pdb
+C:\Users\user\Documents\PDP C#\FirsModulExam\Firs Model Exam Nabiyev suxrob\obj\Debug\net8.0\Firs Model Exam Nabiyev suxrob.genruntimeconfig.cache
+C:\Users\user\Documents\PDP C#\FirsModulExam\Firs Model Exam Nabiyev suxrob\obj\Debug\net8.0\ref\Firs Model Exam Nabiyev suxrob.dll

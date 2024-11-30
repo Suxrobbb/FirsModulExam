@@ -1,0 +1,15 @@
+C:\Users\user\Documents\PDP C#\FirsModulExam\FirstModulExam\firstModulExam\obj\Debug\net8.0\firstModulExam.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Documents\PDP C#\FirsModulExam\FirstModulExam\firstModulExam\obj\Debug\net8.0\firstModulExam.AssemblyInfoInputs.cache
+C:\Users\user\Documents\PDP C#\FirsModulExam\FirstModulExam\firstModulExam\obj\Debug\net8.0\firstModulExam.AssemblyInfo.cs
+C:\Users\user\Documents\PDP C#\FirsModulExam\FirstModulExam\firstModulExam\obj\Debug\net8.0\firstModulExam.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\PDP C#\FirsModulExam\FirstModulExam\firstModulExam\obj\Debug\net8.0\firstModulExam.sourcelink.json
+C:\Users\user\Documents\PDP C#\FirsModulExam\FirstModulExam\firstModulExam\bin\Debug\net8.0\firstModulExam.exe
+C:\Users\user\Documents\PDP C#\FirsModulExam\FirstModulExam\firstModulExam\bin\Debug\net8.0\firstModulExam.deps.json
+C:\Users\user\Documents\PDP C#\FirsModulExam\FirstModulExam\firstModulExam\bin\Debug\net8.0\firstModulExam.runtimeconfig.json
+C:\Users\user\Documents\PDP C#\FirsModulExam\FirstModulExam\firstModulExam\bin\Debug\net8.0\firstModulExam.dll
+C:\Users\user\Documents\PDP C#\FirsModulExam\FirstModulExam\firstModulExam\bin\Debug\net8.0\firstModulExam.pdb
+C:\Users\user\Documents\PDP C#\FirsModulExam\FirstModulExam\firstModulExam\obj\Debug\net8.0\firstModulExam.dll
+C:\Users\user\Documents\PDP C#\FirsModulExam\FirstModulExam\firstModulExam\obj\Debug\net8.0\refint\firstModulExam.dll
+C:\Users\user\Documents\PDP C#\FirsModulExam\FirstModulExam\firstModulExam\obj\Debug\net8.0\firstModulExam.pdb
+C:\Users\user\Documents\PDP C#\FirsModulExam\FirstModulExam\firstModulExam\obj\Debug\net8.0\firstModulExam.genruntimeconfig.cache
+C:\Users\user\Documents\PDP C#\FirsModulExam\FirstModulExam\firstModulExam\obj\Debug\net8.0\ref\firstModulExam.dll
